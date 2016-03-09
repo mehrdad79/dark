@@ -6,8 +6,8 @@ end
 
 return {
 patterns = {
-"^[!/]([Xx]amarin)",
-"^([Xx]amarin)"
+"^[!/]([Xx]mrin)",
+"^([Xx]mrin)"
 
 },
 run = run
