@@ -17,16 +17,16 @@ end
 if msg.text == "salam" then
 	return "Salam"
 end
-if msg.text == "amir" then
+if msg.text == "مهرداد" then
 	return "Ha?"
 end
-if msg.text == "Amir" then
+if msg.text == "مهرداد" then
 	return "Koft Chikaresh Dari?"
 end
-if msg.text == "amin" then
+if msg.text == "مهرداد" then
 	return "Rafte Lala :/"
 end
-if msg.text == "Amin" then
+if msg.text == "مهرداد" then
 	return "Khabe :|"
 end
 if msg.text == "mamshotak" then
@@ -59,19 +59,19 @@ end
 if msg.text == "سلام" then
 	return "سلام"
 end
-if msg.text == "سلام زامارین" then
+if msg.text == "سلام تله اسکرول" then
 	return "سلام عزیزم :)"
 end
-if msg.text == "زامارین سلام" then
+if msg.text == "سلام تله اسکرول" then
 	return "سلام عزیزم :)"
 end
 if msg.text == "ممشوتک" then
 	return "چچچ نگاییدم"
 end
-if msg.text == "امین" then
+if msg.text == "مهرداد" then
 	return "رفته استخر :|"
 end
-if msg.text == "زامارین" then
+if msg.text == "تله اسکرول" then
 	return "ها چیه؟"
 end
 if msg.text == "ایلیا" then
@@ -83,17 +83,17 @@ end
 if msg.text == "مبینا" then
 	return "لال شو اسمشو نیار :|"
 end
-if msg.text == "امیر" then
+if msg.text == "مهرداد" then
 	return "با باباییم چیکار داری؟ 😐"
 end
-if msg.text == "امیر دارک" then
+if msg.text == "mehrdad79k" then
 	return "با باباییم چیکار داری؟ 😐"
 end
 if msg.text == "کله شیری" then
 	return "باباته کله کیییری 😐"
 end
-if msg.text == "زن امیر دارک اسمش چیه؟" then
-	return "زن امیر دارک میشه مامان من کونی 😕"
+if msg.text == "زن مهرداد اسمش چیه؟" then
+	return "زن مهرداد میشه مامان من کونی 😕"
 end
 if msg.text == "بات" then
 	return "چیه چس ممبر 🤔"
@@ -101,10 +101,10 @@ end
 if msg.text == "ربات" then
 	return "چیه چس ممبر 🤔"
 end
-if msg.text == "سید" then
+if msg.text == "اسکرول" then
 	return "چچچ سیک"
 end
-if msg.text == "تله سید" then
+if msg.text == "تله اسکرول" then
 	return "چچچ سیک"
 end
 if msg.text == "خوبی" then
@@ -113,7 +113,7 @@ end
 if msg.text == "خوبی؟" then
 	return "مرسی عزیزم تو خوبی؟"
 end
-if msg.text == "زامارین خوبی؟" then
+if msg.text == "تله اسکرول خوبی؟" then
 	return "مرسی 😁"
 end
 end
@@ -125,8 +125,8 @@ return {
     "^[Hh]i$",
 	"^[Hh]ello$",
     "^[Ss]alam$",
-    "^[Aa]mir$",
-    "^[Aa]min$",
+    "^[Mm]ehrdad$",
+    "^[Mm]ehrdad79k$",
     "^[Mm]amshotak$",
     "^?$",
     "^؟$",
@@ -134,25 +134,25 @@ return {
     "^[Kk]ir$",
 	"^[Bb]ye$",
 	"^سلام",
-	"^سلام زامارین",
-  "^زامارین سلام",
+	"^سلام تله اسکرول",
+  "^تله اسکرول سلام",
 	"^ممشوتک",	
-	"^امین",	
-	"^زامارین",
+	"^مهرداد",	
+	"^تله اسکرول",
 	"^ایلیا",
 	"^سپهر",
 	"^مبینا",
-	"^امیر",
-	"^امیر دارک",
+	"^مهرداد",
+	"^مهرداد.ک",
 	"^کله شیری",
-	"^زن امیر دارک اسمش چیه؟",	
+	"^زن مهرداد اسمش چیه؟",	
 	"^بات",
 	"^ربات",
-	"^سید",
-	"^تله سید",
+	"^اسکرول",
+	"^تله اسکرول",
 	"^خوبی",
 	"^خوبی؟",
-	"^زامارین خوبی؟",
+	"^اسکرول خوبی؟",
 		
 		}, 
 	run = run,
